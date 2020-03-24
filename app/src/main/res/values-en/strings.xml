@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Leonappdita</string>
+    <string name="strNavmenuComida">Food</string>
+    <string name="strNavmenuCultura">Culture</string>
+    <string name="strNavmenuInicio">Home</string>
+    <string name="strNavmenuServicios">Services</string>
+    <string name="strNavmenuUnamigo">UNAMigo</string>
+    <string name="inicioStringTxtvEnterate">Find out what\'s new</string>
+</resources>

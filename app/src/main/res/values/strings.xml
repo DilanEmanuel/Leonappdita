@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Leonappdita</string>
+    <string name="strNavmenuInicio">Inicio</string>
+    <string name="strNavmenuCultura">Cultura</string>
+    <string name="strNavmenuServicios">Servicios</string>
+    <string name="strNavmenuComida">Comida</string>
+    <string name="strNavmenuUnamigo">UNAMigo</string>
+    <string name="inicioStringTxtvEnterate">Entérate de lo nuevo</string>
+</resources>
